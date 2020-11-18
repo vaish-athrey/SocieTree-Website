@@ -75,6 +75,7 @@ img{
     margin-left: 50px;
     
 }
+
 .button2{
     color:black;
     background-color:white;
@@ -104,6 +105,12 @@ img{
     font-size: 40px;
     padding: 100px;
 }
+.intro_section3{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 40px;
+    }
 *{
     box-sizing: border-box;
 }
@@ -275,4 +282,36 @@ h4{
     width: 33.33%;
     height: 200px;
     text-align: center;
+}
+.column2{
+    
+    float: left;
+    width: 33.33%;
+    height: 300px;
+    text-align: center;
+}
+.col7{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 50px;
+    font-family: 'Roboto', sans-serif;
+}
+.col8{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 50px;
+    font-family: 'Roboto', sans-serif;
+}
+.col9{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 50px;
+    font-family: 'Roboto', sans-serif;
+}
+.section4{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    height: 100px;
+    margin-top: 780px;
+    
 }
